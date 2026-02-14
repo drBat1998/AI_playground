@@ -11,10 +11,14 @@
             "id": "5d07969ad4e429ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "thinking/How does a dying cell kill nearby cells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How does a dying cell kill nearby cells"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cef280a1b76d4cff",
@@ -178,10 +183,13 @@
   },
   "active": "5d07969ad4e429ca",
   "lastOpenFiles": [
+    "Claude code test.canvas",
+    "thinking/How does a dying cell kill nearby cells.md",
+    "thinking",
+    "deliberate practice.md",
     "CLAUDE.md",
     "Writer Science.md",
     "Untitled.md",
-    "deliberate practice.md",
     "custom.css",
     "CASP8.md",
     "My essay style.md",
@@ -191,7 +199,6 @@
     "HTI.canvas",
     "Zeiss CD7.md",
     "2026.md",
-    "Claude code test.canvas",
     "Психологія.md",
     "Template/zotero.md",
     "Template/Reading_notes.md",
@@ -207,8 +214,6 @@
     "1-Fleeting_notes/acetylation of RIPK3-MLKL.md",
     "1-Fleeting_notes/ZO1 and pMLKL co-localisation.md",
     "1-Fleeting_notes/Why CASP8 inhibited during OGD-necroptosis?.md",
-    "1-Fleeting_notes/What is the genome-wide CRISPR-Cas9 screen?.md",
-    "1-Fleeting_notes/What does MHC 1 present?.md",
     "1-Fleeting_notes",
     "config.edn",
     "7-Canvas/Statistics.canvas",
@@ -220,7 +225,6 @@
     "0 - Intro/vim",
     "0 - Intro/Untitled 1.base",
     "0 - Intro/Untitled.base",
-    "0 - Intro/Untitled 3.base",
     "Screenshot 2026-02-06 at 13.30.57.png",
     "Screenshot 2026-01-05 at 10.53.55.png",
     "Figure/yanPyroptosisApoptosisNecroptosis2022/image-5-x42-y551.png",
