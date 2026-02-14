@@ -1,0 +1,1 @@
+Upon interaction with inducer, the recepror assmbles with ...., thus forming the  complex I - [[@britoPhenotypicHighthroughputScreening2020]]

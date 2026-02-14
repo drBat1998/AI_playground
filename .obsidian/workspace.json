@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "7ab4ecfe75ce6ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ceaa6319605072b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d07969ad4e429ca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2381f3103a0ce710",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f629bab8a99ccd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a31090ca0d4f5142",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf3da7743967bc2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a343ae675ef84e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cef280a1b76d4cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e9ce4c21b51444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df6531d3a075def1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c59a65d4808b2e07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3c23b2ff370a95ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96a5b800425e9b45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c2cb06c9a497d0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5d07969ad4e429ca",
+  "lastOpenFiles": [
+    "Writer Science.md",
+    "Untitled.md",
+    "deliberate practice.md",
+    "custom.css",
+    "CASP8.md",
+    "My essay style.md",
+    "grammar constraction.md",
+    "MPT-driven regulated necrosis.md",
+    "Untitled.base",
+    "HTI.canvas",
+    "Zeiss CD7.md",
+    "2026.md",
+    "Claude code test.canvas",
+    "Психологія.md",
+    "Template/zotero.md",
+    "Template/Reading_notes.md",
+    "Template/journal.md",
+    "Template/Question.md",
+    "Template/YouTube.md",
+    "Template/Essay training.md",
+    "Template/Atomic note.md",
+    "Template",
+    "Zeiss Zen.md",
+    "1-Fleeting_notes/Питання для Валерії.md",
+    "1-Fleeting_notes/dependence receptors and necroptosis.md",
+    "1-Fleeting_notes/acetylation of RIPK3-MLKL.md",
+    "1-Fleeting_notes/ZO1 and pMLKL co-localisation.md",
+    "1-Fleeting_notes/Why CASP8 inhibited during OGD-necroptosis?.md",
+    "1-Fleeting_notes/What is the genome-wide CRISPR-Cas9 screen?.md",
+    "1-Fleeting_notes/What does MHC 1 present?.md",
+    "1-Fleeting_notes/What cytokines induce apoptosis?.md",
+    "1-Fleeting_notes",
+    "config.edn",
+    "7-Canvas/Statistics.canvas",
+    "7-Canvas/How to write an essay.canvas",
+    "7-Canvas/Necroptosis and OGD.canvas",
+    "7-Canvas/Galluzzi-2018a canvas.canvas",
+    "7-Canvas/Analyze a Book.canvas",
+    "7-Canvas",
+    "0 - Intro/vim",
+    "0 - Intro/Untitled 1.base",
+    "0 - Intro/Untitled.base",
+    "0 - Intro/Untitled 3.base",
+    "Screenshot 2026-02-06 at 13.30.57.png",
+    "Screenshot 2026-01-05 at 10.53.55.png",
+    "Figure/yanPyroptosisApoptosisNecroptosis2022/image-5-x42-y551.png",
+    "Figure/yanPyroptosisApoptosisNecroptosis2022/image-4-x26-y567.png",
+    "Figure/yanPyroptosisApoptosisNecroptosis2022/image-4-x22-y46.png",
+    "Figure/yanPyroptosisApoptosisNecroptosis2022/image-4-x17-y269.png",
+    "Figure/wanVDAC1DownstreamMolecule2024/image-8-x33-y307.png",
+    "Figure/luoEffectBaicalinOxygenglucose2017/image-5-x227-y129.png",
+    "Figure/luoEffectBaicalinOxygenglucose2017/image-5-x58-y131.png",
+    "Figure/Kawasoe-2022/image-7-x305-y288.png",
+    "my_second_brain/HTI.canvas",
+    "my_second_brain/Claude code test.canvas",
+    "my_second_brain/7-Canvas/Statistics.canvas"
+  ]
+}

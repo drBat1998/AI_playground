@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"3c927dbba3af914e","type":"group","x":1140,"y":1000,"width":724,"height":344,"color":"3","label":"3"},
+		{"id":"231dbd9f6763db32","type":"group","x":1140,"y":600,"width":645,"height":323,"color":"2","label":"2"},
+		{"id":"dfe42aaa07b4a5e3","type":"group","x":1140,"y":280,"width":674,"height":244,"color":"1","label":"1"},
+		{"id":"b6bf59e892becf17","type":"group","x":1404,"y":1560,"width":381,"height":236,"color":"4","label":"4"},
+		{"id":"e319cb571055d5e0","type":"file","file":"6-Primary_Sources/YouTube/How to Analyze a Book - 101.md","x":160,"y":-160,"width":768,"height":604},
+		{"id":"a6b1e7c083ca2c57","type":"text","text":"main idea","x":1544,"y":302,"width":250,"height":60,"color":"1"},
+		{"id":"9c76687b7ca2a84f","type":"text","text":"structure\n","x":1543,"y":444,"width":250,"height":60,"color":"1"},
+		{"id":"83924f23e11b5433","type":"text","text":"1. Mental map","x":1163,"y":302,"width":250,"height":60,"color":"1"},
+		{"id":"809d839976baa2a6","type":"text","text":"2. Work with paragraph","x":1160,"y":726,"width":250,"height":60,"color":"2"},
+		{"id":"3074cbde0a19f1df","type":"text","text":"paraphrasing ideas","x":1515,"y":620,"width":250,"height":60,"color":"2"},
+		{"id":"21a27c081fd91796","type":"text","text":"1. Pencile\n2. Own words","x":2600,"y":767,"width":250,"height":60,"color":"6"},
+		{"id":"ba803de45766deba","type":"text","text":"ask questions","x":1515,"y":726,"width":250,"height":60,"color":"2"},
+		{"id":"40a5514c1f76878f","type":"text","text":"Links to other ideas","x":1498,"y":843,"width":250,"height":60,"color":"2"},
+		{"id":"62fc1a38adcf3fe9","type":"text","text":"Thesis","x":1573,"y":1050,"width":250,"height":60,"color":"3"},
+		{"id":"0d742a8cdcd2cea0","type":"text","text":"3. Map of the chapter","x":1160,"y":1161,"width":250,"height":60,"color":"3"},
+		{"id":"57c4de3a39c6338d","type":"text","text":"Arguments","x":1594,"y":1161,"width":250,"height":60,"color":"3"},
+		{"id":"7e3eb1f5e5d6f997","type":"text","text":"Examples","x":1593,"y":1264,"width":250,"height":60,"color":"3"},
+		{"id":"9d3dc67da9faa184","type":"text","text":"4. Summary of the chapter","x":1424,"y":1580,"width":250,"height":59,"color":"4"},
+		{"id":"262f72843c754896","type":"text","text":"Add to Second Brain","x":1515,"y":1716,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"74983bf7a214cacc","fromNode":"83924f23e11b5433","fromSide":"right","toNode":"a6b1e7c083ca2c57","toSide":"left"},
+		{"id":"b56b8d6e4a5fc7a9","fromNode":"83924f23e11b5433","fromSide":"right","toNode":"9c76687b7ca2a84f","toSide":"left"},
+		{"id":"22c5029bece6c065","fromNode":"83924f23e11b5433","fromSide":"bottom","toNode":"809d839976baa2a6","toSide":"top"},
+		{"id":"9bda1ff8666b5b57","fromNode":"809d839976baa2a6","fromSide":"right","toNode":"3074cbde0a19f1df","toSide":"left"},
+		{"id":"643218679a5f43b3","fromNode":"809d839976baa2a6","fromSide":"right","toNode":"ba803de45766deba","toSide":"left"},
+		{"id":"3d91e62943bc1da2","fromNode":"809d839976baa2a6","fromSide":"right","toNode":"40a5514c1f76878f","toSide":"left"},
+		{"id":"843f859648457786","fromNode":"809d839976baa2a6","fromSide":"bottom","toNode":"0d742a8cdcd2cea0","toSide":"top"},
+		{"id":"91dc0dea061568f3","fromNode":"0d742a8cdcd2cea0","fromSide":"bottom","toNode":"9d3dc67da9faa184","toSide":"top"},
+		{"id":"9fc253575b02d3e1","fromNode":"0d742a8cdcd2cea0","fromSide":"right","toNode":"62fc1a38adcf3fe9","toSide":"left"},
+		{"id":"4c70dbfb9a773486","fromNode":"0d742a8cdcd2cea0","fromSide":"right","toNode":"57c4de3a39c6338d","toSide":"left"},
+		{"id":"82cacfaa4c7a252e","fromNode":"57c4de3a39c6338d","fromSide":"bottom","toNode":"7e3eb1f5e5d6f997","toSide":"top"},
+		{"id":"65e5583d695e1edf","fromNode":"21a27c081fd91796","fromSide":"left","toNode":"dfe42aaa07b4a5e3","toSide":"right"},
+		{"id":"87c53b2713c89fe8","fromNode":"21a27c081fd91796","fromSide":"left","toNode":"231dbd9f6763db32","toSide":"right"},
+		{"id":"f0ffaf8808cccf7c","fromNode":"21a27c081fd91796","fromSide":"left","toNode":"3c927dbba3af914e","toSide":"right"},
+		{"id":"77c9ae72b61201f6","fromNode":"21a27c081fd91796","fromSide":"left","toNode":"9d3dc67da9faa184","toSide":"right"},
+		{"id":"499fcc9fa841885a","fromNode":"9d3dc67da9faa184","fromSide":"bottom","toNode":"262f72843c754896","toSide":"top"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"38b5256a2c285e45","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Statistics"},
+		{"id":"53bbc7f0a60c26f7","x":-484,"y":159,"width":324,"height":81,"type":"text","text":"Descriptive statistics"},
+		{"id":"5a724f82361f960b","x":181,"y":160,"width":319,"height":80,"type":"text","text":"Inferential statistics"}
+	],
+	"edges":[
+		{"id":"5354af4a201a5032","fromNode":"38b5256a2c285e45","fromSide":"bottom","toNode":"53bbc7f0a60c26f7","toSide":"top"},
+		{"id":"d9bd3303016813a7","fromNode":"38b5256a2c285e45","fromSide":"bottom","toNode":"5a724f82361f960b","toSide":"top"}
+	]
+}

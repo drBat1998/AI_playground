@@ -1,0 +1,11 @@
+Title: RIPK3 inhibitor decreases the activity of Akt and mTOR
+Tags: #cell_death #reading_note 
+
+
+# Notes
+Akt is known to be a critical mediator of growth factor-induced neuronal survival in the developing nervous system, and mTOR is a downstream effector of Akt that mediates cellular response to stresses in neurological diseases, such as hypoxic-ischemic and traumatic brain injuries.53,54 Previous studies reported that dual inhibition of Akt and mTOR reduced acute cell death post-CCI in mice,55 and the activation of the Akt/mTOR cascade following hypoxic or TBIs could trigger excitotoxicity, inflammation, and activation of cell death programs,56 suggesting that Akt/mTOR might participate in necroptosis involved in the pathologic process of traumatic brain cell death.31,55 In this study, we found that TBI induced phosphorylation of Akt and mTOR. These phosphorylation events were inhibited by GSK’872 both in vitro and in vivo (Figures 3B and 4B), suggesting that Akt/mTOR signaling may be regulated by RIP3 and may participate in necroptosis in neurons after TBI. It has been reported that Akt/mTOR is regulated by RIP1 and participates in necroptosis by inducing ROS.31 In this study, the inhibition of RIP3 also blocked the activity of Akt/mTOR, indicating that Akt/mTOR might be regulated by RIP3 (Figure 6). The inhibition of apoptosis is necessary for necroptosis. The Akt/mTOR pathway occasionally inhibits apoptosis. Akt/mTOR activation may participate in necroptosis via both apoptosis inhibition and ROS induction (Figure 6).
+# Summary
+Akt/mTOR cascade activation following hypoxia or traumatic brain injury correlates with inflammation and activation of cell death programs. Min et al. indicated that traumatic brain injury induces phosphorylation of both Akt/mTOR and RIPK3/MLKL pathways. Moreover, the implementation of RIPK3 inhibitor (GSK’872) reduces Akt/mTOR activity, suggesting that RIPK3 is an upstream Akt/mTOR regulator. The authors speculated that Akt/mTOR influences necroptosis in two distinct ways, through ROS generation and apoptosis inhibition.
+# Links
+[[minGSK872ImprovesPrognosis2024]]
+[[akt mTOR and necroptosis]]

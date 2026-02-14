@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - adding data
+      - retrieval data
+    sort:
+      - property: adding data
+        direction: ASC
+      - property: retrieval data
+        direction: ASC
+      - property: year
+        direction: ASC
+  - type: table
+    name: Test
+    filters:
+      and:
+        - note["retrieval data"] == "20/12/2025"
+    order:
+      - file.name
+      - retrieval data

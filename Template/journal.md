@@ -1,0 +1,24 @@
+---
+adding data:
+retrieval data:
+---
+
+# Morning page
+```
+1. Chose the question
+2. Write for 20 minutes in freestyle
+3. Check three parameters through AI
+- How clear you write about the topic and who could understand it
+- Check spelling and grammar
+- How logical it is and how soficticated your resoning
+```
+
+# Reading and Writing
+- [ ] Paper
+- [ ] 5 pages of any book
+- [ ] Write 300 words
+# English 
+1. Grammar rule from IELTS [[English Grammar]]
+	- [ ] 
+2. Set of exercises of the rule by creating sentences, not more than 5 sentences per rule, 4 rules per day
+	- [ ] 

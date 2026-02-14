@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"36bc9dbe44e07429","type":"text","text":"Accusition","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"a1d07de8698bfab9","x":-124,"y":107,"width":250,"height":60,"type":"text","text":"Preprocessing"},
+		{"id":"4ee7143edbbdabaa","x":-124,"y":251,"width":250,"height":60,"type":"text","text":"Cell profiling"},
+		{"id":"0ecbf3f6b8930fd5","x":-123,"y":412,"width":250,"height":60,"type":"text","text":"Statistic analysis"}
+	],
+	"edges":[
+		{"id":"087dea0431beb86d","fromNode":"36bc9dbe44e07429","fromSide":"bottom","toNode":"a1d07de8698bfab9","toSide":"top"},
+		{"id":"46a901aaa5426a71","fromNode":"a1d07de8698bfab9","fromSide":"bottom","toNode":"4ee7143edbbdabaa","toSide":"top"},
+		{"id":"df4bab14d588d445","fromNode":"4ee7143edbbdabaa","fromSide":"bottom","toNode":"0ecbf3f6b8930fd5","toSide":"top"}
+	]
+}

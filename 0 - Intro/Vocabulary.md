@@ -1,0 +1,4 @@
+Deficiency
+deteriorate
+
+

@@ -1,0 +1,1 @@
+https://carpenter-singh-lab.broadinstitute.org/blog/when-to-say-good-enough

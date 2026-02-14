@@ -1,0 +1,81 @@
+---
+tags: 
+title: "The p38/CYLD Pathway is Involved in Necroptosis Induced by Oxygen-glucose Deprivation Combined with ZVAD in Primary Cortical Neurons"
+authors: "Tao Feng, WeiWei Chen, CaiYi Zhang, Jie Xiang, HongMei Ding, LianLian Wu, DeQin Geng"
+---
+
+> [!Cite] 1.
+
+Feng, T. _et al._ The p38/CYLD Pathway is Involved in Necroptosis Induced by Oxygen-glucose Deprivation Combined with ZVAD in Primary Cortical Neurons. _Neurochem Res_ **42**, 2294–2304 (2017).
+
+>[!md] QAC
+
+>[!md]
+> **FirstAuthor**:: Feng, Tao  
+> **Author**:: Chen, WeiWei  
+> **Author**:: Zhang, CaiYi  
+> **Author**:: Xiang, Jie  
+> **Author**:: Ding, HongMei  
+> **Author**:: Wu, LianLian  
+> **Author**:: Geng, DeQin  
+~    
+> **Title**:: The p38/CYLD Pathway is Involved in Necroptosis Induced by Oxygen-glucose Deprivation Combined with ZVAD in Primary Cortical Neurons  
+> **Year**:: 2017   
+> **Citekey**:: fengP38CYLDPathway2017  
+> **itemType**:: journalArticle  
+> **Journal**:: *Neurochemical Research*  
+> **Volume**:: 42  
+> **Issue**:: 8   
+> **Pages**:: 2294-2304  
+> **DOI**:: 10.1007/s11064-017-2244-6    
+
+> [!LINK] 
+>
+>  [Feng et al. - 2017 - The p38CYLD Pathway is Involved in Necroptosis Induced by Oxygen-glucose Deprivation Combined with.pdf](file:///Users/romankoval/Library/Mobile%20Documents/com~apple~CloudDocs/Lib/ZotMove_files/Feng%20et%20al.%20-%202017%20-%20The%20p38CYLD%20Pathway%20is%20Involved%20in%20Necroptosis%20Induced%20by%20Oxygen-glucose%20Deprivation%20Combined%20with.pdf).
+
+> [!Abstract]
+>
+> Recently, necroptosis, a form of programmed necrosis, has been widely studied. It has previously been shown that knockout of lysine 63 deubiquitinase CYLD significantly inhibits necroptosis in other cell lines, and serum response factor (SRF) could regulate CYLD gene expression through p38 mitogen-activated protein kinase (p38 MAPK). In the following study, we show oxygen-glucose deprivation (OGD) combined with a caspase inhibitor, ZVAD (OGD/ZVAD), induced CYLD protein expression in a time-dependent manner. Immunofluorescence studies showed that CYLD was localized strongly to the nucleus and weakly to the cytoplasm of neurons. The expression of CYLD in the cytoplasm, but not in the nucleus, was increased significantly upon OGD treatment. SB203580 (a p38 MAPK inhibitor) protected against neuronal injury induced by OGD/ZVAD treatment. More importantly, SB203580 decreased CYLD protein levels by inhibiting SRF phosphorylation and indirectly prevented SRF from binding to a CYLD promoter. We also found that cells with knockdown of SRF by short interfering RNA in a lentivirus vector tolerated OGD/ZVAD-induced necroptosis, when the expression of CYLD protein decreased. The results show that SB203580 prevented necroptosis induced by OGD/ZVAD injury by blocking a p38/CYLD dependent pathway.
+>.
+>
+### Table of context
+
+> [!quote]+ Highlight ([Page 4](zotero://open-pdf/library/items/7GKPV6JV?page=4&annotation=XV3DP943))
+> The Expression of CYLD in Neurons After OGD/ ZVAD-Induced Cortical Neuronal Necroptosis 
+
+> [!quote]+ Highlight ([Page 5](zotero://open-pdf/library/items/7GKPV6JV?page=5&annotation=2GE8ZSXX))
+> SB203580 Improves the Viability of Cortical Neuronal Necroptosis Induced by OGD/ZVAD 
+
+> [!quote]+ Highlight ([Page 6](zotero://open-pdf/library/items/7GKPV6JV?page=6&annotation=P9L7BN4J))
+> The Mechanism of CYLD Regulation by SB203580 
+### Ideas, thoughts, useful information
+
+> [!quote]+ Highlight ([Page ](zotero://open-pdf/library/items/7GKPV6JV?page=1&annotation=DBH4896C))
+> RIP1 is a serine/threonine kinase and Heat shock protein 90 (Hsp90)related kinase, which induces nuclear factor κB (NF-κB) and MAPK activation through tumor necrosis factor receptor1 (TNFR1), and participates in TNFR1, FAS (CD95), tumor necrosis factor-related apoptosis inducing ligand (TRAIL), and other receptor-induced cell death signaling pathways [3, 4]. 
+
+> [!quote]+ Highlight ([Page 2](zotero://open-pdf/library/items/7GKPV6JV?page=2&annotation=E5EH259F))
+> The CYLD can then cleave K63-linked polyubiquitin chains of RIP1, to form the RIP1/3 complex. 
+
+> [!quote]+ Highlight ([Page 2](zotero://open-pdf/library/items/7GKPV6JV?page=2&annotation=4SZR9N5Y))
+> Previous studies have shown that p38 regulates ischemia–reperfusion injury and plays key roles both in vivo and in vitro [14]. 
+
+> [!quote]+ Highlight ([Page 3](zotero://open-pdf/library/items/7GKPV6JV?page=3&annotation=7C7N9DGX))
+> Oxygen-Glucose Deprivation  Cortical neurons cultured for 14 days were washed with glucose free Earle’s Balanced Salt Solution (EBSS) and then were placed into an incubator filled with an anaerobic gas mixture (95% N2 and 5% CO2) at 37 °C for 2 h.  The cells were then incubated under normal conditions. After reoxygenation, glucose-free EBSS was replaced with neurobasal medium. 
+
+> [!quote]+ Note ([Page 9](zotero://open-pdf/library/items/7GKPV6JV?page=9&annotation=FAHAXIC3))
+  **The authors can not ditermine speciffic cell death type.**
+
+> [!quote]+ Highlight ([Page 9](zotero://open-pdf/library/items/7GKPV6JV?page=9&annotation=7PJY69ZK))
+> . Studies have confirmed that downregulating RIP1 in neurons by interfering with its proper folding significantly reduced the rate of cell necroptosis [34]. 
+
+> [!quote]+ Highlight ([Page 9](zotero://open-pdf/library/items/7GKPV6JV?page=9&annotation=74KAU73X))
+> Studies also have shown that CYLD participates in RIP1-dependent NF-κB activation [35], and downregulating CYLD significantly reduced the rate of cell death in TNF-induced necroptosis. 
+
+[[CYLD]]
+### Important papers that I have to read
+
+> [!quote]+ Highlight ([Page 10](zotero://open-pdf/library/items/7GKPV6JV?page=10&annotation=A9AFGU2T))
+> 14. Wang JY, Shum AYC, Ho YJ et al (2003) Oxidative neurotoxicity in rat cerebral cortex neurons: synergistic effects of H2O2 and NO on apoptosis involving activation of p38 mitogen-activated protein kinase and caspase3. J Neurosci Res 72:508–519 
+
+> [!quote]+ Highlight ([Page 11](zotero://open-pdf/library/items/7GKPV6JV?page=11&annotation=WJZ6N5PC))
+> 35. Schmid JA, Birbach A (2008) IkB kinase b (IKKb/IKK2/ IKBKB)-A key molecule in signaling to the trans 

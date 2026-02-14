@@ -1,0 +1,1 @@
+Mitochondrial permeability transition (MPT)-dependent necrosis induction factor is an enigma for me. However, MPT-dependent necrosis occurs in ischemic reperfusion damage, and the morphology is necrotic, so the necrotic player activates faster, despite the induction of apoptosis. Apoptosis would be induced without doubt, but death would come from something else. 

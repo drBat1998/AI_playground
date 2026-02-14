@@ -1,0 +1,5 @@
+# I. What is a University?
+If I were asked to describe as briefly and popularly as I could, what a University was, I should draw my answer from its ancient designation of Studium Gereale, or "School of Universal Learning."
+
+This description implies the assembly of strangers from all parts in one spot; from all parts; else, how will you find professors and students for every department of knowledge? and in one spot; else, how can there be any school at all? Accordingly, in its simple and rudimentary form, it is a school of knowledge of every kind, consisting of teachers and learners from every quarter. 
+Many things are requisite to complete and satisfy the idea embodied in this description; but, as such, this University seems to be in its essence, a place for the communication and circulation of thought, by means of personal intercourse, through a wide extent of country.

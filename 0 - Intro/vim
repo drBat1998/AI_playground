@@ -1,0 +1,10 @@
+In vim `a` put corsour after the corsour and if you use `A` you would move to the end of the sentence. 
+
+B/b states for back or begining, small b move you to the beginning of the word and 
+
+
+c - change. 
+
+d - delete.
+
+e - end of the word. 
